@@ -5,4 +5,4 @@ signxml
 reportlab
 cryptography
 six
-https://github.com/thiagopena/geraldo/archive/master.zip
+https://github.com/startupcodebr/geraldo/archive/master.zip
